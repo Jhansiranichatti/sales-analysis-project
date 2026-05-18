@@ -20,7 +20,7 @@ This project analyzes sales data using SQL and Excel to identify business insigh
 ## Dashboard Preview
 
 ### Sales by Region
-![Sales by Region](sales_by_region.png)
+![Sales by Region](sales_by_region.png.png)
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](monthly_sales_trend.png)
