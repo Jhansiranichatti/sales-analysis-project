@@ -24,3 +24,6 @@ This project analyzes sales data using SQL and Excel to identify business insigh
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](monthly_sales_trend.png)
+
+### Sales by Category
+![Sales_by_Category](category_sales.png.png)
