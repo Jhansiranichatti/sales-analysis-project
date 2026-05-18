@@ -16,4 +16,4 @@ This project analyzes sales data using SQL and Excel to identify business insigh
 
 ## Files
 - sales_project_queries.sql
-- Excel charts (not uploaded yet)
+- Excel charts 
